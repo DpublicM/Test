@@ -1,0 +1,28 @@
+.fl{float: left;}
+.fr{float: right;}
+.hide{display: none;}
+.replylist{list-style:none;padding:0 10px;margin-top:0}
+.pllist{border:1px solid #dedede;background-color:#fff}
+.pllist .tit{width:100%;padding:5px 10px;font-size:12px;background-color:#f5f5f5;border-bottom:1px solid #dedede;border-top:transparent}
+.pllist ul{border-top:10px;border-bottom:6px}
+.pllist ul li a{margin:0;padding:.2em .7em}
+.replylist li{width:100%;overflow:hidden;padding-top:10px;border-top:1px solid #ddd}
+.replylist li img {float: left;width: 48px;height: 48px;border: 0px;}
+.replylist li.one{border-top:0}
+.reply-info a{font-size:14px}
+.reply-info span{padding-left:10px;font-size:13px;color:#666}
+.reply-c{padding-left:56px;font-size:14px;color:#333}
+.reply-list{width:93%;float:right;padding-top:10px;border-top:1px dashed #ddd}
+.reply-box{margin-top:10px;width:100%;border:1px solid #ddd;padding:10px;background-color:#fff;border-radius:3px}
+.reply-box-title{background-color:#f5f5f5;padding:5px 10px;position:relative}
+.reply-box-title .hfqx{position:absolute;top:8px;right:15px;font-style:normal;font-size:12px;cursor:pointer;display:none}
+.reply-footer button{border:0;font-size:1rem;width:100%;height:30px;background-color:#337ab7;color:#fff;text-align:center}
+.nolog{margin-top:15px;border:1px solid #D9EDF7;padding:8px;border-radius:3px;font-size:13px;color:#31708f;background-color:#d9edf7;border-color:#bce8f1}
+.nolog a{color:#337ab7;text-decoration:none}
+.nopl{border:2px dashed #CCC;color:#777;border-radius:5px;height:50px;line-height:50px;font-size:14px;text-align:center;font-family:'宋体'}
+.pages{margin:5px auto;height:35px;line-height:35px;text-align:center}
+.pages:hover{background-color:#f1f1f1}
+.pages a{font-size:14px}
+#reply-to-box{font-size:.8rem;display:inline-block}
+#replycontent{width:100%;padding:10px;border:1px solid #ddd;outline:0}
+#rpnotice{color:red;font-size:1rem;padding-left:15px}
